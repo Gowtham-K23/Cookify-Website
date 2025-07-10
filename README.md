@@ -57,6 +57,12 @@ Recipes are **not AI-generated** or random. They are:
 
 ---
 
+## Links
+
+Check this out [Cookify](https://cookify-website-theta.vercel.app/)
+
+---
+
 ## 👨‍💻 Author
 
 **Gowtham K**  
