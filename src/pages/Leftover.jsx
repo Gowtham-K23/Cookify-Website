@@ -92,7 +92,7 @@ export default function Leftover() {
           <img src={LogoImg} alt='Cookify Logo' className='-ml-5 w-40 h-auto' />
         </button>
         <button>
-          <img src={UserLogin} alt='User Login' className='w-14 h-14' />
+          <img src={UserLogin} alt='User Login' className='w-14 h-14 mb-5' />
         </button>
       </div>
 

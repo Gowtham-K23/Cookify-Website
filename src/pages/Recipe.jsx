@@ -721,8 +721,8 @@ export default function Recipe() {
         <div className='min-h-screen bg-cover bg-center p-6' style = {{backgroundImage: `linear-gradient(to bottom, rgba(255,255,255,0.3), rgba(255,255,255,0.3)), url(${BackgroundImg})`}}>
             {/* Header */}
             <div className='flex justify-between items-center mb-8'>
-                <img src={LogoImg} alt='Cookify Logo' className='w-40 h-auto' />
-                <img src={UserLogin} alt='User Login' className='w-14 h-14' />
+                <img src={LogoImg} alt='Cookify Logo' className='-ml-10 w-40 h-auto -mt-10' />
+                <img src={UserLogin} alt='User Login' className='w-14 h-14 mb-5 -mt-10' />
             </div>
 
             {/* Main Content */}
